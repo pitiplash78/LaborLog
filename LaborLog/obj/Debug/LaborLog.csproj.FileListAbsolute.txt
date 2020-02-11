@@ -1,0 +1,16 @@
+\\vmware-host\Shared Folders\home-andre\VisualStudio_svn\LaborLog\LaborLog\bin\Debug\LaborLog.exe.config
+\\vmware-host\Shared Folders\home-andre\VisualStudio_svn\LaborLog\LaborLog\bin\Debug\LaborLog.exe
+\\vmware-host\Shared Folders\home-andre\VisualStudio_svn\LaborLog\LaborLog\bin\Debug\LaborLog.pdb
+\\vmware-host\Shared Folders\home-andre\VisualStudio_svn\LaborLog\LaborLog\bin\Debug\eMail.dll
+\\vmware-host\Shared Folders\home-andre\VisualStudio_svn\LaborLog\LaborLog\bin\Debug\Lib-LabLog.dll
+\\vmware-host\Shared Folders\home-andre\VisualStudio_svn\LaborLog\LaborLog\bin\Debug\eMail.pdb
+\\vmware-host\Shared Folders\home-andre\VisualStudio_svn\LaborLog\LaborLog\bin\Debug\Lib-LabLog.pdb
+\\vmware-host\Shared Folders\home-andre\VisualStudio_svn\LaborLog\LaborLog\obj\Debug\LaborLog.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\home-andre\VisualStudio_svn\LaborLog\LaborLog\obj\Debug\LaborLog.CategorySelection.resources
+\\vmware-host\Shared Folders\home-andre\VisualStudio_svn\LaborLog\LaborLog\obj\Debug\LaborLog.EditAddEntry.resources
+\\vmware-host\Shared Folders\home-andre\VisualStudio_svn\LaborLog\LaborLog\obj\Debug\LaborLog.MainWindow.resources
+\\vmware-host\Shared Folders\home-andre\VisualStudio_svn\LaborLog\LaborLog\obj\Debug\LaborLog.Properties.Resources.resources
+\\vmware-host\Shared Folders\home-andre\VisualStudio_svn\LaborLog\LaborLog\obj\Debug\LaborLog.PropertiesSettings.resources
+\\vmware-host\Shared Folders\home-andre\VisualStudio_svn\LaborLog\LaborLog\obj\Debug\LaborLog.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\home-andre\VisualStudio_svn\LaborLog\LaborLog\obj\Debug\LaborLog.exe
+\\vmware-host\Shared Folders\home-andre\VisualStudio_svn\LaborLog\LaborLog\obj\Debug\LaborLog.pdb

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MailProperties xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Used>true</Used>
+  <SenderAddress>lkreisel@fs.wettzell.de</SenderAddress>
+  <RecipientAdresses>
+    <string>lkreisel@fs.wettzell.de</string>
+    <string>hadzii@geophysik.uni-muenchen.de</string>
+    <string>nader@geophysik.uni-muenchen.de</string>
+    <string>jowa@geophysik.uni-muenchen.de</string>
+    <string>heiner.igel@geophysik.uni-muenchen.de</string>
+    <string>mayerbacher@fs.wettzell.de</string>
+    <string>lkreisel@fs.wettzell.de</string>
+  </RecipientAdresses>
+  <SMTPclient>xmail.wtz</SMTPclient>
+  <SMTPclientPort>25</SMTPclientPort>
+  <EnableSsl>false</EnableSsl>
+</MailProperties>
